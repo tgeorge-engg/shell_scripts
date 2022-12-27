@@ -2,14 +2,13 @@
 
 The script cpp_create.sh creates directories for a new C++ project. The structure is as follows:
 
-Project  
-    include  
-    lib  
-    src  
-        include  
-        modules  
-        main.cpp  
-    makefile  
+PROJECT_NAME  
+└── include  
+└── lib  
+└── src  
+|   └── include  
+|   └── modules  
+|   └── main.cpp  
+└── makefile  
 
-
-The script allows you to specify the project name as well as the parent directory the project is stored in
+The script allows you to specify the project name as well as the parent directory the project is stored in.
