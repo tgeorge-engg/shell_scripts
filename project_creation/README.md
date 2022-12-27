@@ -1,4 +1,4 @@
-#Creating C++ Projects
+# Creating C++ Projects
 
 The script cpp_create.sh creates directories for a new C++ project. The structure is as follows:
 
