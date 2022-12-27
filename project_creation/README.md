@@ -6,9 +6,9 @@ PROJECT_NAME
 └── include  
 └── lib  
 └── src  
-│   └── include  
-│   └── modules  
-│   └── main.cpp  
+&nbsp;│&nbsp;&nbsp;&nbsp;└── include  
+&nbsp;│&nbsp;&nbsp;&nbsp;└── modules  
+&nbsp;│&nbsp;&nbsp;&nbsp;└── main.cpp  
 └── makefile  
 
 The script allows you to specify the project name as well as the parent directory the project is stored in.
